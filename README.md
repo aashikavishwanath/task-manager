@@ -1,7 +1,7 @@
-Task Management Application
+#Task Management Application
 This repository contains the code for a simple task management application built using HTML, CSS, and JavaScript. The main purpose of this application is to help users organize and track their tasks effectively.
 
-Files
+#Files
 main.py: This is the main Python file that implements the backend functionality of the application. It handles user registration, login, task creation, task updating, and task deletion.
 
 mainhtml.html: This HTML file serves as the user interface of the application. It provides a form for user registration, login, and task management. It also displays the list of tasks and allows users to interact with them.
